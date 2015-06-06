@@ -1,6 +1,6 @@
 {
   "name": "nodejs-id3-reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mp3 id3 标签检测",
   "main": "index.js",
   "scripts": {
